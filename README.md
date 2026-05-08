@@ -1,6 +1,7 @@
 # OpenProject 
 
-![[Pasted image 20260507152232.png]]
+<img width="2599" height="1528" alt="Pasted image 20260507152232" src="https://github.com/user-attachments/assets/124dbd76-4869-45eb-b059-944fb50ebec0" />
+
 ## Relatório Técnico:
 
 ### Visão Geral
@@ -60,7 +61,8 @@ ___
 
 # Bugzilla
 
-![[Pasted image 20260507155520.png ]]
+<img width="614" height="391" alt="Pasted image 20260507155520" src="https://github.com/user-attachments/assets/a1d1d4c9-932d-48bd-9d11-ac500b62254c" />
+
 
 ## Relatório Técnico:
 
@@ -124,7 +126,8 @@ ___
 
 # Linear
 
-![[Pasted image 20260507163335.png]]
+<img width="1408" height="719" alt="Pasted image 20260507163335" src="https://github.com/user-attachments/assets/afe04b89-d74d-40ed-97f3-e8a4aada90a3" />
+
 ## Relatório Técnico:
 
 ### Visão Geral e Arquitetura
