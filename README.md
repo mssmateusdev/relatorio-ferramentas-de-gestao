@@ -35,25 +35,21 @@ No OpenProject, tudo (bugs, tarefas, épicos, features) é tratado como um **Pac
 
 ### Veredito Técnico
 
-> [!TIP]
-> 
-> **Prós:**
-> 
-> - Frontend moderno e responsivo.
->     
-> - Mecanismo de fluxo de trabalho (workflows) extremamente poderoso e customizável.
->     
-> - Excelente para gráficos de Gantt e controle de dependências complexas.
->     
+✅ **Prós:**
 
-> [!WARNING]
-> 
-> **Contras:**
-> 
-> - Alto consumo de memória RAM.
->     
-> - Recursos ágeis avançados (como quadros multiplataforma) restritos ao licenciamento _Enterprise_.
->     
+- Frontend moderno e responsivo.
+    
+- Mecanismo de fluxo de trabalho (workflows) extremamente poderoso e customizável.
+    
+- Excelente para gráficos de Gantt e controle de dependências complexas.
+    
+
+❌ **Contras:**
+
+- Alto consumo de memória RAM.
+    
+- Recursos ágeis avançados (como quadros multiplataforma) restritos ao licenciamento _Enterprise_.
+    
 
 ---
 
@@ -90,27 +86,23 @@ Criado pela Fundação Mozilla, o Bugzilla é focado estritamente em relatar, ra
 
 ### Veredito Técnico
 
-> [!TIP]
-> 
-> **Prós:**
-> 
-> - Consumo de recursos minúsculo.
->     
-> - Motor de busca imbatível para milhares de tickets.
->     
-> - Alta estabilidade a longo prazo.
->     
+✅ **Prós:**
 
-> [!WARNING]
-> 
-> **Contras:**
-> 
-> - Instalação e gestão de dependências Perl (CPAN) trabalhosa.
->     
-> - UX/UI obsoleta que pode afastar membros não-técnicos da equipe.
->     
-> - Falta total de recursos visuais como quadros Kanban nativos.
->     
+- Consumo de recursos minúsculo.
+    
+- Motor de busca imbatível para milhares de tickets.
+    
+- Alta estabilidade a longo prazo.
+    
+
+❌ **Contras:**
+
+- Instalação e gestão de dependências Perl (CPAN) trabalhosa.
+    
+- UX/UI obsoleta que pode afastar membros não-técnicos da equipe.
+    
+- Falta total de recursos visuais como quadros Kanban nativos.
+    
 
 ---
 
@@ -140,27 +132,23 @@ Ferramenta **SaaS (Cloud)** altamente opinativa, construída para equipes de eng
 
 ### Veredito Técnico
 
-> [!TIP]
-> 
-> **Prós:**
-> 
-> - Velocidade absurda devido à sincronização local.
->     
-> - Foco total na experiência do desenvolvedor (DX).
->     
-> - Design e UX minimalistas e impecáveis.
->     
+✅ **Prós:**
 
-> [!WARNING]
-> 
-> **Contras:**
-> 
-> - Dependência total da nuvem (sem opção de self-hosting).
->     
-> - Preço escalonável em dólar e teto rígido de issues no plano gratuito.
->     
-> - Pouca flexibilidade para metodologias que fogem do padrão da ferramenta.
->     
+- Velocidade absurda devido à sincronização local.
+    
+- Foco total na experiência do desenvolvedor (DX).
+    
+- Design e UX minimalistas e impecáveis.
+    
+
+❌ **Contras:**
+
+- Dependência total da nuvem (sem opção de self-hosting).
+    
+- Preço escalonável em dólar e teto rígido de issues no plano gratuito.
+    
+- Pouca flexibilidade para metodologias que fogem do padrão da ferramenta.
+    
 
 ---
 
